@@ -17,15 +17,15 @@
 Really,I love You
 
 
-<img width="66" alt="image" src="https://github.com/MohamedMohsen23/Sign-language/assets/116019561/376336a0-fb38-4371-9250-c21c74032911">
+<img width="66" alt="image" style="margin-left:5px" src="https://github.com/MohamedMohsen23/Sign-language/assets/116019561/376336a0-fb38-4371-9250-c21c74032911">
 This is terrible
                           
 
-<img width="56" alt="image" src="https://github.com/MohamedMohsen23/Sign-language/assets/116019561/b1693806-004a-45a7-9377-b55dd62f437a">
+<img width="56" alt="image" style="margin-left:5px" src="https://github.com/MohamedMohsen23/Sign-language/assets/116019561/b1693806-004a-45a7-9377-b55dd62f437a">
 I am watching you 
 
 
-<img width="71" alt="image" src="https://github.com/MohamedMohsen23/Sign-language/assets/116019561/df9f9d0a-bb16-49a5-bcb4-d1db436c460c">
+<img width="71" alt="image" style="margin-left:5px" src="https://github.com/MohamedMohsen23/Sign-language/assets/116019561/df9f9d0a-bb16-49a5-bcb4-d1db436c460c">
 I wish you a happy life
 
 
@@ -37,11 +37,11 @@ I wish you a happy life
    <br>
    <br>
    <br>
-<img width="200" alt="image" src="https://github.com/MohamedMohsen23/Sign-language/assets/116019561/fa1469f7-4314-4c18-b053-534dc12b6ffc">
+<img width="200" alt="image" style="margin-left:5px" src="https://github.com/MohamedMohsen23/Sign-language/assets/116019561/fa1469f7-4314-4c18-b053-534dc12b6ffc">
 Search
 
 
-<img width="185" alt="image" src="https://github.com/MohamedMohsen23/Sign-language/assets/116019561/8959e6bb-5b8f-47d0-83ed-95eb3e7a588a">
+<img width="185" alt="image" style="margin-left:5px" src="https://github.com/MohamedMohsen23/Sign-language/assets/116019561/8959e6bb-5b8f-47d0-83ed-95eb3e7a588a">
 Phone
 
 
