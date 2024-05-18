@@ -11,3 +11,5 @@
 2-Run the file his name is(create_dataset).
 3-Run the file his name is(train_classifier).
 4-Run the file his name is(inference_classifier),and try it.
+
+<img width="86" alt="image" src="https://github.com/MohamedMohsen23/Sign-language/assets/116019561/33afba60-83a5-4222-bf0f-e0e3450a1229">
