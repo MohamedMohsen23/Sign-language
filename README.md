@@ -33,7 +33,7 @@ I wish you a happy life
 
 
 
-   
+   <br>
 <img width="200" alt="image" src="https://github.com/MohamedMohsen23/Sign-language/assets/116019561/fa1469f7-4314-4c18-b053-534dc12b6ffc">
 Search
 
